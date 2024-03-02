@@ -1,1 +1,1 @@
-# .github
+# Sistema di emulazione GITSIM
